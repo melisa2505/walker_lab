@@ -1,0 +1,9 @@
+{
+  "hours": 0.015,
+  "seed": 20261117,
+  "envs": 4,
+  "eval_every": 8192,
+  "resume": false,
+  "run_dir": "/home/melisa/Documents/MeliMelosaUTEC/deepLearning/walker_lab/entrenamiento/prueba",
+  "no_video": false
+}

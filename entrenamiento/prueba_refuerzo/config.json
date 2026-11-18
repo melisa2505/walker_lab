@@ -1,0 +1,11 @@
+{
+  "hours": 0.025,
+  "seed": 73117,
+  "eval_every": 32768,
+  "checkpoint_every": 16384,
+  "run_dir": "/home/melisa/Documents/MeliMelosaUTEC/deepLearning/walker_lab/entrenamiento/prueba_refuerzo",
+  "publish_dir": "/home/melisa/Documents/MeliMelosaUTEC/deepLearning/walker_lab/entrenamiento/prueba_refuerzo/publicado",
+  "source_dir": "/home/melisa/Documents/MeliMelosaUTEC/deepLearning/walker_lab/entrenamiento/nocturno/checkpoints",
+  "resume": false,
+  "no_video": true
+}

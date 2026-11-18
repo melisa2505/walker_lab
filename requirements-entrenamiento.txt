@@ -1,0 +1,7 @@
+-r requirements.txt
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.7.1+cpu
+stable-baselines3==2.7.1
+tensorboard==2.20.0
+imageio==2.37.2
+imageio-ffmpeg==0.6.0

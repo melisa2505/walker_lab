@@ -1,0 +1,21 @@
+{
+  "launcher_pid": 12208,
+  "command": [
+    "nice",
+    "-n",
+    "10",
+    "systemd-inhibit",
+    "--what=idle:sleep",
+    "--mode=block",
+    "--who=WalkerLab",
+    "--why=Entrenamiento nocturno solicitado",
+    "/home/melisa/Documents/MeliMelosaUTEC/deepLearning/walker_lab/.venv/bin/python",
+    "-u",
+    "/home/melisa/Documents/MeliMelosaUTEC/deepLearning/walker_lab/entrenar_refuerzo.py",
+    "--hours",
+    "12.0",
+    "--run-dir",
+    "/home/melisa/Documents/MeliMelosaUTEC/deepLearning/walker_lab/entrenamiento/refuerzo",
+    "--resume"
+  ]
+}

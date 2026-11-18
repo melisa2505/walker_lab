@@ -1,0 +1,15 @@
+{
+  "distance": 60.0,
+  "length": 60.0,
+  "steps": 1079,
+  "simulated_seconds": 21.58,
+  "effort": 3098.071761086583,
+  "success": true,
+  "reason": "success",
+  "device": "cpu",
+  "scenario": "bloques.json",
+  "scenario_sha256": "5560bf78e39f743c9b97276dd4c0a7f3b9aae8765e72ec4bdd796e89ed6a9200",
+  "simulation_seed": 104,
+  "max_steps": 2400,
+  "training_return": 170.627586772095
+}

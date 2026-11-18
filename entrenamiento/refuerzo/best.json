@@ -1,0 +1,21 @@
+{
+  "directory": "checkpoints/best_57118720_1794984015998632805",
+  "metrics": {
+    "groups": {
+      "normal": {
+        "success_rate": 1.0,
+        "distance_fraction": 1.0
+      },
+      "habilidades": {
+        "success_rate": 0.8,
+        "distance_fraction": 0.8824736555279585
+      },
+      "hardcore": {
+        "success_rate": 0.5,
+        "distance_fraction": 0.9819110658433703
+      }
+    },
+    "success_score": 0.7450000000000001,
+    "distance_score": 0.946658335256363
+  }
+}

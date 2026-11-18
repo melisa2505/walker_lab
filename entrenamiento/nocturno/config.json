@@ -1,0 +1,9 @@
+{
+  "hours": 10.0,
+  "seed": 20261117,
+  "envs": 4,
+  "eval_every": 100000,
+  "resume": false,
+  "run_dir": "/home/melisa/Documents/MeliMelosaUTEC/deepLearning/walker_lab/entrenamiento/nocturno",
+  "no_video": false
+}

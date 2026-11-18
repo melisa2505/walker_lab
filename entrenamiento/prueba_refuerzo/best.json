@@ -1,0 +1,21 @@
+{
+  "directory": "origen",
+  "metrics": {
+    "groups": {
+      "normal": {
+        "success_rate": 1.0,
+        "distance_fraction": 1.0
+      },
+      "habilidades": {
+        "success_rate": 0.5,
+        "distance_fraction": 0.673390912686431
+      },
+      "hardcore": {
+        "success_rate": 0.5,
+        "distance_fraction": 0.8300561692979601
+      }
+    },
+    "success_score": 0.625,
+    "distance_score": 0.8098760243288585
+  }
+}

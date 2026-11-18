@@ -1,0 +1,4 @@
+# Dependencias adicionales de esta entrega, con sus versiones.
+# No duplique ni cambie las versiones del simulador del laboratorio.
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.7.1+cpu

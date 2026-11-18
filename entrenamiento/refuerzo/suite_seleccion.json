@@ -1,0 +1,87 @@
+[
+  {
+    "path": "/home/melisa/Documents/MeliMelosaUTEC/deepLearning/walker_lab/escenarios/practica/plano.json",
+    "label": "practica_plano",
+    "group": "normal"
+  },
+  {
+    "path": "/home/melisa/Documents/MeliMelosaUTEC/deepLearning/walker_lab/escenarios/practica/suave.json",
+    "label": "practica_suave",
+    "group": "normal"
+  },
+  {
+    "path": "/home/melisa/Documents/MeliMelosaUTEC/deepLearning/walker_lab/escenarios/practica/mixto.json",
+    "label": "practica_mixto",
+    "group": "normal"
+  },
+  {
+    "path": "/home/melisa/Documents/MeliMelosaUTEC/deepLearning/walker_lab/escenarios/validacion/maraton_01.json",
+    "label": "validacion_maraton_01",
+    "group": "normal"
+  },
+  {
+    "path": "/home/melisa/Documents/MeliMelosaUTEC/deepLearning/walker_lab/escenarios/hardcore/maraton_01.json",
+    "label": "hardcore_maraton_01",
+    "group": "hardcore"
+  },
+  {
+    "path": "/home/melisa/Documents/MeliMelosaUTEC/deepLearning/walker_lab/escenarios/validacion/maraton_02.json",
+    "label": "validacion_maraton_02",
+    "group": "normal"
+  },
+  {
+    "path": "/home/melisa/Documents/MeliMelosaUTEC/deepLearning/walker_lab/escenarios/hardcore/maraton_02.json",
+    "label": "hardcore_maraton_02",
+    "group": "hardcore"
+  },
+  {
+    "path": "/home/melisa/Documents/MeliMelosaUTEC/deepLearning/walker_lab/entrenamiento/refuerzo/pistas/seleccion/huecos_dobles_nivel1.json",
+    "label": "huecos_dobles_nivel1",
+    "group": "habilidades"
+  },
+  {
+    "path": "/home/melisa/Documents/MeliMelosaUTEC/deepLearning/walker_lab/entrenamiento/refuerzo/pistas/seleccion/huecos_dobles_nivel2.json",
+    "label": "huecos_dobles_nivel2",
+    "group": "habilidades"
+  },
+  {
+    "path": "/home/melisa/Documents/MeliMelosaUTEC/deepLearning/walker_lab/entrenamiento/refuerzo/pistas/seleccion/huecos_triples_nivel1.json",
+    "label": "huecos_triples_nivel1",
+    "group": "habilidades"
+  },
+  {
+    "path": "/home/melisa/Documents/MeliMelosaUTEC/deepLearning/walker_lab/entrenamiento/refuerzo/pistas/seleccion/huecos_triples_nivel2.json",
+    "label": "huecos_triples_nivel2",
+    "group": "habilidades"
+  },
+  {
+    "path": "/home/melisa/Documents/MeliMelosaUTEC/deepLearning/walker_lab/entrenamiento/refuerzo/pistas/seleccion/escaleras_nivel1.json",
+    "label": "escaleras_nivel1",
+    "group": "habilidades"
+  },
+  {
+    "path": "/home/melisa/Documents/MeliMelosaUTEC/deepLearning/walker_lab/entrenamiento/refuerzo/pistas/seleccion/escaleras_nivel2.json",
+    "label": "escaleras_nivel2",
+    "group": "habilidades"
+  },
+  {
+    "path": "/home/melisa/Documents/MeliMelosaUTEC/deepLearning/walker_lab/entrenamiento/refuerzo/pistas/seleccion/bajada_nivel1.json",
+    "label": "bajada_nivel1",
+    "group": "habilidades"
+  },
+  {
+    "path": "/home/melisa/Documents/MeliMelosaUTEC/deepLearning/walker_lab/entrenamiento/refuerzo/pistas/seleccion/bajada_nivel2.json",
+    "label": "bajada_nivel2",
+    "group": "habilidades"
+  },
+  {
+    "path": "/home/melisa/Documents/MeliMelosaUTEC/deepLearning/walker_lab/entrenamiento/refuerzo/pistas/seleccion/combinado_nivel1.json",
+    "label": "combinado_nivel1",
+    "group": "habilidades"
+  },
+  {
+    "path": "/home/melisa/Documents/MeliMelosaUTEC/deepLearning/walker_lab/entrenamiento/refuerzo/pistas/seleccion/combinado_nivel2.json",
+    "label": "combinado_nivel2",
+    "group": "habilidades"
+  }
+]

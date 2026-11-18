@@ -1,0 +1,72 @@
+[
+  {
+    "path": "/home/melisa/Documents/MeliMelosaUTEC/deepLearning/walker_lab/entrenamiento/refuerzo/pistas/reservadas/reservada_huecos_dobles_nivel1.json",
+    "label": "reservada_huecos_dobles_nivel1",
+    "group": "habilidades"
+  },
+  {
+    "path": "/home/melisa/Documents/MeliMelosaUTEC/deepLearning/walker_lab/entrenamiento/refuerzo/pistas/reservadas/reservada_huecos_dobles_nivel2.json",
+    "label": "reservada_huecos_dobles_nivel2",
+    "group": "habilidades"
+  },
+  {
+    "path": "/home/melisa/Documents/MeliMelosaUTEC/deepLearning/walker_lab/entrenamiento/refuerzo/pistas/reservadas/reservada_huecos_triples_nivel1.json",
+    "label": "reservada_huecos_triples_nivel1",
+    "group": "habilidades"
+  },
+  {
+    "path": "/home/melisa/Documents/MeliMelosaUTEC/deepLearning/walker_lab/entrenamiento/refuerzo/pistas/reservadas/reservada_huecos_triples_nivel2.json",
+    "label": "reservada_huecos_triples_nivel2",
+    "group": "habilidades"
+  },
+  {
+    "path": "/home/melisa/Documents/MeliMelosaUTEC/deepLearning/walker_lab/entrenamiento/refuerzo/pistas/reservadas/reservada_escaleras_nivel1.json",
+    "label": "reservada_escaleras_nivel1",
+    "group": "habilidades"
+  },
+  {
+    "path": "/home/melisa/Documents/MeliMelosaUTEC/deepLearning/walker_lab/entrenamiento/refuerzo/pistas/reservadas/reservada_escaleras_nivel2.json",
+    "label": "reservada_escaleras_nivel2",
+    "group": "habilidades"
+  },
+  {
+    "path": "/home/melisa/Documents/MeliMelosaUTEC/deepLearning/walker_lab/entrenamiento/refuerzo/pistas/reservadas/reservada_bajada_nivel1.json",
+    "label": "reservada_bajada_nivel1",
+    "group": "habilidades"
+  },
+  {
+    "path": "/home/melisa/Documents/MeliMelosaUTEC/deepLearning/walker_lab/entrenamiento/refuerzo/pistas/reservadas/reservada_bajada_nivel2.json",
+    "label": "reservada_bajada_nivel2",
+    "group": "habilidades"
+  },
+  {
+    "path": "/home/melisa/Documents/MeliMelosaUTEC/deepLearning/walker_lab/entrenamiento/refuerzo/pistas/reservadas/reservada_combinado_nivel1.json",
+    "label": "reservada_combinado_nivel1",
+    "group": "habilidades"
+  },
+  {
+    "path": "/home/melisa/Documents/MeliMelosaUTEC/deepLearning/walker_lab/entrenamiento/refuerzo/pistas/reservadas/reservada_combinado_nivel2.json",
+    "label": "reservada_combinado_nivel2",
+    "group": "habilidades"
+  },
+  {
+    "path": "/home/melisa/Documents/MeliMelosaUTEC/deepLearning/walker_lab/entrenamiento/refuerzo/pistas/reservadas/maraton_reservada_0.json",
+    "label": "maraton_reservada_0",
+    "group": "normal"
+  },
+  {
+    "path": "/home/melisa/Documents/MeliMelosaUTEC/deepLearning/walker_lab/entrenamiento/refuerzo/pistas/reservadas/maraton_reservada_1.json",
+    "label": "maraton_reservada_1",
+    "group": "normal"
+  },
+  {
+    "path": "/home/melisa/Documents/MeliMelosaUTEC/deepLearning/walker_lab/entrenamiento/refuerzo/pistas/reservadas/maraton_reservada_2.json",
+    "label": "maraton_reservada_2",
+    "group": "hardcore"
+  },
+  {
+    "path": "/home/melisa/Documents/MeliMelosaUTEC/deepLearning/walker_lab/entrenamiento/refuerzo/pistas/reservadas/maraton_reservada_3.json",
+    "label": "maraton_reservada_3",
+    "group": "hardcore"
+  }
+]
